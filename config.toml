@@ -44,7 +44,7 @@ DefaultContentLanguage = "id"
     logo = "images/logo.png"
     menufixed = false
 
-    footerDescription = "Komunitas LibreOffice Indonesia adalah suatu komunitas"
+    footerDescription = "Komunitas LibreOffice Indonesia adalah suatu komunitas pengguna, pegiat, dan kontributor LibreOffice"
     footerServiceTitle = "Layanan"
     footerQuicklinkTitle = "Pranala Luar"
     footerAboutTitle = "Tentang"
@@ -53,11 +53,11 @@ DefaultContentLanguage = "id"
     # Hero Area Section
     [Languages.id.params.hero]
         enable  = true
-        heading = "Belajar, Berbagi, dan Menginspirasi"
-        description = "bersama Komunitas LibreOffice Indonesia."
+        heading = "Komunitas LibreOffice Indonesia"
+        description = ""
         button  = true
-        btnText = "Selanjutnya"
-        btnURL  = "https://libreOffice.id/"
+        btnText = "Mari Bergabung"
+        btnURL  = "https://t.me/LibreOfficeID"
 
     # About 2 Section
     [Languages.id.params.aboutSm]
@@ -102,14 +102,14 @@ DefaultContentLanguage = "id"
     [Languages.en]
     weight = 2
     languageCode = "en-us"
-    title = "Komunitas LibreOffice Indonesia"
+    title = "LibreOffice Indonesia Community"
     dateFormat = "January 2, 2006"
 
     home = "EN Home"
     logo = "images/logo.png"
     menufixed = false
 
-    footerDescription = "Integer posuere erat a ante venenati dapibus posuere velit aliquet. Fusce dapibus, tellus cursus commodo, tortor mauris sed posuere."
+    footerDescription = "LibreOffice Indonesia Community is a community of LibreOffice's users and contributors"
     footerServiceTitle = "Service"
     footerQuicklinkTitle = "Quicklinks"
     footerAboutTitle = "About"
@@ -118,23 +118,23 @@ DefaultContentLanguage = "id"
     # Hero Area Section
     [Languages.en.params.hero]
         enable  = true
-        heading = "We love to make brands grow"
-        description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. At quo dolor est incidunt suscipit minima, alias numquam voluptatum rerum porro. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore at laboriosam unde repellat id expedita quae quisquam libero officia consequatur."
+        heading = "LibreOffice Indonesia Community"
+        description = ""
         button  = true
-        btnText = "Know More"
-        btnURL  = "https://themefisher.com/"
+        btnText = "Join Us"
+        btnURL  = "https://t.me/LibreOfficeID"
 
     # About 2 Section
     [Languages.en.params.aboutSm]
         enable  = true
-        title   = "We have explored the digital landscape with passion for a long time"
+        title   = "About Us"
         description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae deleniti ipsa labore necessitatibus culpa veritatis quo accusantium, neque enim ea ad eaque iure, quas tempore velit, quibusdam dolor illo! Explicabo. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid quisquam maiores iste soluta, nihil dolorem?"
 
     # Blog Section On Homepage
     [Languages.en.params.blog]
         enable  = true
-        topTitle= "OUR UNTOLD STORY"
-        title   = "Blog."
+        topTitle= "Newest"
+        title   = "LibreOffice Indonesia Community Blog"
         subtitle= "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!"
 
     # Contact Section
