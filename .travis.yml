@@ -1,0 +1,15 @@
+install:
+  - wget -O /tmp/hugo.deb https://github.com/gohugoio/hugo/releases/download/v0.60.0/hugo_0.60.0_Linux-64bit.deb
+  - sudo dpkg -i /tmp/hugo.deb
+
+script:
+  - hugo
+
+# Deploy to GitHub pages
+deploy:
+  provider: pages
+  skip_cleanup: false
+  github_token: $GITHUB_TOKEN
+  local_dir: public
+  on:
+    branch: master
