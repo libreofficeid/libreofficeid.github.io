@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://libreofficeid.github.io/id/</loc>
+    <lastmod>2019-11-26T15:42:54+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://libreofficeid.github.io/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://libreofficeid.github.io/id/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://libreofficeid.github.io/id/posts/my-new-first-post/</loc>
+    <lastmod>2019-11-26T15:42:54+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://libreofficeid.github.io/id/posts/</loc>
+    <lastmod>2019-11-26T15:42:54+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://libreofficeid.github.io/id/posts/why-you-need-a-statement-bag-this-season/</loc>
+    <lastmod>2018-07-08T12:11:29+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://libreofficeid.github.io/id/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://libreofficeid.github.io/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://libreofficeid.github.io/id/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://libreofficeid.github.io/id/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://libreofficeid.github.io/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://libreofficeid.github.io/id/tags/"
+                />
+  </url>
+  
+</urlset>

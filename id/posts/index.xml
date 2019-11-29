@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Komunitas LibreOffice Indonesia</title>
+    <link>https://libreofficeid.github.io/id/posts/</link>
+    <description>Recent content in Posts on Komunitas LibreOffice Indonesia</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>id-id</language>
+    <lastBuildDate>Tue, 26 Nov 2019 15:42:54 +0700</lastBuildDate>
+    
+	<atom:link href="https://libreofficeid.github.io/id/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My New First Post</title>
+      <link>https://libreofficeid.github.io/id/posts/my-new-first-post/</link>
+      <pubDate>Tue, 26 Nov 2019 15:42:54 +0700</pubDate>
+      
+      <guid>https://libreofficeid.github.io/id/posts/my-new-first-post/</guid>
+      <description>lkjhgfdkjhgff</description>
+    </item>
+    
+    <item>
+      <title>Why You Need a Statement Bag</title>
+      <link>https://libreofficeid.github.io/id/posts/why-you-need-a-statement-bag-this-season/</link>
+      <pubDate>Sun, 08 Jul 2018 12:11:29 +0600</pubDate>
+      
+      <guid>https://libreofficeid.github.io/id/posts/why-you-need-a-statement-bag-this-season/</guid>
+      <description>A cleansing hot shower or bath I like to start with taking a shower or a bath when getting ready for bed.</description>
+    </item>
+    
+  </channel>
+</rss>
