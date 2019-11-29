@@ -3,14 +3,15 @@ install:
   - sudo dpkg -i /tmp/hugo.deb
 
 script:
+  - git submodule update --init --recursive
   - hugo
 
 # Deploy to GitHub pages
 deploy:
   provider: pages
   skip_cleanup: true
-  keep_history: true
+  keep_history: false
   github_token: $GITHUB_TOKEN
   local_dir: public
   on:
-    branch: master
+    branch: source
