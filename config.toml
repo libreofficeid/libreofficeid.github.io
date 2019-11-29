@@ -1,4 +1,4 @@
-baseURL = "https://libreOffice.id/"
+baseURL = "https://libreofficeid.github.io/"
 languageCode = "id-id"
 title = "Komunitas LibreOffice Indonesia"
 theme = "navigator-hugo"
