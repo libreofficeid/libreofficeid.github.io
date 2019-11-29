@@ -54,7 +54,7 @@ DefaultContentLanguage = "id"
     [Languages.id.params.hero]
         enable  = true
         heading = "Komunitas LibreOffice Indonesia"
-        description = ""
+        description = "Mari aktif berkontribusi untuk LibreOffice"
         button  = true
         btnText = "Mari Bergabung"
         btnURL  = "https://t.me/LibreOfficeID"
@@ -70,7 +70,7 @@ DefaultContentLanguage = "id"
         enable  = true
         topTitle= "Postingan Terkini"
         title   = "Blog Komunitas LibreOffice Indonesia."
-        subtitle= "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!"
+        subtitle= "Temukan kabar terbaru seputar Komunitas LibreOffice Indonesia"
 
     # Contact Section
     [Languages.id.params.contact]
@@ -119,7 +119,7 @@ DefaultContentLanguage = "id"
     [Languages.en.params.hero]
         enable  = true
         heading = "LibreOffice Indonesia Community"
-        description = ""
+        description = "Let's Contribute to LibreOffice"
         button  = true
         btnText = "Join Us"
         btnURL  = "https://t.me/LibreOfficeID"
@@ -135,7 +135,7 @@ DefaultContentLanguage = "id"
         enable  = true
         topTitle= "Newest"
         title   = "LibreOffice Indonesia Community Blog"
-        subtitle= "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!"
+        subtitle= "The latest news about LibreOffice Indonesia Community"
 
     # Contact Section
     [Languages.en.params.contact]
