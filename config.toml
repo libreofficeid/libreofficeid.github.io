@@ -2,7 +2,7 @@ baseURL = "https://libreofficeid.github.io/"
 languageCode = "id-id"
 title = "Komunitas LibreOffice Indonesia"
 theme = "navigator-hugo"
-summaryLength = 10
+summaryLength = 15
 
 # Build robots.txt file
 enableRobotsTXT = true
@@ -28,8 +28,8 @@ DefaultContentLanguage = "id"
     code = "en"
     
     # meta data
-    author = "Themefisher"
-    description = "This is meta description"
+    author = "LibreOffice ID"
+    description = "LibreOffice ID merupakan komunitas LibreOffice yang bertujuan untuk mengajak para pegiat LibreOffice di Indonesia untuk turut andil berkontribusi dalam pengembangan LibreOffice."
 
 # Gestion des langues : FR / EN / NL / DE
 [Languages]
@@ -44,7 +44,7 @@ DefaultContentLanguage = "id"
     logo = "images/logo.png"
     menufixed = false
 
-    footerDescription = "Komunitas LibreOffice Indonesia adalah suatu komunitas pengguna, pegiat, dan kontributor LibreOffice"
+    footerDescription = "Komunitas LibreOffice Indonesia adalah suatu komunitas pengguna, pegiat, dan kontributor LibreOffice di Indonesia"
     footerServiceTitle = "Layanan"
     footerQuicklinkTitle = "Pranala Luar"
     footerAboutTitle = "Tentang"
@@ -68,8 +68,8 @@ DefaultContentLanguage = "id"
     # Blog Section On Homepage
     [Languages.id.params.blog]
         enable  = true
-        topTitle= "Postingan Terkini"
-        title   = "Blog Komunitas LibreOffice Indonesia."
+        topTitle= ""
+        title   = "Warta Terkini LibreOffice Indonesia."
         subtitle= "Temukan kabar terbaru seputar Komunitas LibreOffice Indonesia"
 
     ############# 2 - Site en ENGLISH
