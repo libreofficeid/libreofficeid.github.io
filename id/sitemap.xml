@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://libreofficeid.github.io/id/posts/post-pertama/</loc>
+    <lastmod>2019-11-26T15:42:54+07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://libreofficeid.github.io/id/</loc>
     <lastmod>2019-11-26T15:42:54+07:00</lastmod>
     <xhtml:link
@@ -23,12 +28,12 @@
   </url>
   
   <url>
-    <loc>https://libreofficeid.github.io/id/posts/post-pertama/</loc>
+    <loc>https://libreofficeid.github.io/id/posts/</loc>
     <lastmod>2019-11-26T15:42:54+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://libreofficeid.github.io/id/posts/</loc>
+    <loc>https://libreofficeid.github.io/id/posts/post-tambah-lagi/</loc>
     <lastmod>2019-11-26T15:42:54+07:00</lastmod>
   </url>
   

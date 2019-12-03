@@ -12,21 +12,30 @@
     
     
     <item>
-      <title>Post Kedua</title>
-      <link>https://libreofficeid.github.io/id/posts/post-kedua/</link>
-      <pubDate>Tue, 26 Nov 2019 15:42:54 +0700</pubDate>
-      
-      <guid>https://libreofficeid.github.io/id/posts/post-kedua/</guid>
-      <description>ini post kedua isinya masih random buat test css. Apa itu css?</description>
-    </item>
-    
-    <item>
-      <title>Post Pertama</title>
+      <title>Judul Post Pertama, Harus Lebih dari 5 Kata!</title>
       <link>https://libreofficeid.github.io/id/posts/post-pertama/</link>
       <pubDate>Tue, 26 Nov 2019 15:42:54 +0700</pubDate>
       
       <guid>https://libreofficeid.github.io/id/posts/post-pertama/</guid>
-      <description>lkjhgfdkjhgff</description>
+      <description>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&#39;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</description>
+    </item>
+    
+    <item>
+      <title>Post Kedua dengan Gambar di Badan Konten</title>
+      <link>https://libreofficeid.github.io/id/posts/post-kedua/</link>
+      <pubDate>Tue, 26 Nov 2019 15:42:54 +0700</pubDate>
+      
+      <guid>https://libreofficeid.github.io/id/posts/post-kedua/</guid>
+      <description>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&#39;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</description>
+    </item>
+    
+    <item>
+      <title>Tes Judul Kalau Panjang Banger Seperti Ini Gimana Ya?</title>
+      <link>https://libreofficeid.github.io/id/posts/post-tambah-lagi/</link>
+      <pubDate>Tue, 26 Nov 2019 15:42:54 +0700</pubDate>
+      
+      <guid>https://libreofficeid.github.io/id/posts/post-tambah-lagi/</guid>
+      <description>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&#39;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</description>
     </item>
     
   </channel>
