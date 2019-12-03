@@ -63,7 +63,7 @@ DefaultContentLanguage = "id"
     [Languages.id.params.aboutSm]
         enable  = true
         title   = "Tentang Kami"
-        description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae deleniti ipsa labore necessitatibus culpa veritatis quo accusantium, neque enim ea ad eaque iure, quas tempore velit, quibusdam dolor illo! Explicabo. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid quisquam maiores iste soluta, nihil dolorem?"
+        description = "Komunitas LibreOffice Indonesia adalah komunitas non profit yang mewadahi para pengguna, pegiat, dan kontributor LibreOffice di Indonesia. Kontribusi yang dapat dilakukan antara lain menerjemahkan LibreOffice, membuat ekstensi, atau berkontribusi dalam pengembangan kualitas LibreOffice (QA). Dengan dukungan 582 anggota per 3 Desember 2019, sangat dimungkinkan ada terjadi diskusi hangat, tanya jawab, dan pemecahan permasalahan terkait penggunaan dan kontribusi terhadap LibreOffice. Mari aktif berkontribusi untuk LibreOffice!"
 
     # Blog Section On Homepage
     [Languages.id.params.blog]
@@ -71,32 +71,6 @@ DefaultContentLanguage = "id"
         topTitle= "Postingan Terkini"
         title   = "Blog Komunitas LibreOffice Indonesia."
         subtitle= "Temukan kabar terbaru seputar Komunitas LibreOffice Indonesia"
-
-    # Contact Section
-    [Languages.id.params.contact]
-        enable  = true
-        topTitle= "DROP US A NOTE"
-        title   = "FRANCAIS Contact Us."
-        subtitle= "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!"
-        address = "14/05, Stockhome <br> Victori Palace , United States"
-        phone   = "(03) 9283 2617"
-        fax     = "+61 3827 3590"
-        facebook= "https://www.facebook.com/"
-        twitter = "https://twitter.com/"
-        linkedin= "https://www.linkedin.com/"
-        dribbble= "https://dribbble.com/"
-        instagram= "https://www.instagram.com/"
-        mapLatitude = "51.507351"
-        mapLongitude= "-0.127758"
-        mapMarker   = "images/marker.png"
-
-    # Call to Action Section on About Page
-    [Languages.id.params.cta]
-        enable  = true
-        bg      = "images/call-to-action/call-to-action-bg-2.jpg"
-        title   = "FRANCAIS Let's Create Something Together"
-        subtitle= "Proin gravida nibh vel velit auctor aliquet. Aenean sollicudin bibendum auctor, <br> nisi elit consequat ipsum, nesagittis sem nid elit. Duis sed odio sitain elit."
-        btnText = "Nous contacter"
 
     ############# 2 - Site en ENGLISH
     [Languages.en]
@@ -128,7 +102,7 @@ DefaultContentLanguage = "id"
     [Languages.en.params.aboutSm]
         enable  = true
         title   = "About Us"
-        description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae deleniti ipsa labore necessitatibus culpa veritatis quo accusantium, neque enim ea ad eaque iure, quas tempore velit, quibusdam dolor illo! Explicabo. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid quisquam maiores iste soluta, nihil dolorem?"
+        description = "LibreOffice Indonesia Community is the non-profit community that accomodate users, activist, and contributors of LibreOffice in Indonesia. We are contribute to translation, extentions development, or being quality assurance of LibreOffice. Supported by 582 members, it possible to have a discussion, question and answer, and LibreOffice usage and contribution problem solving. Let's contribute for LibreOffice!"
 
     # Blog Section On Homepage
     [Languages.en.params.blog]
@@ -136,32 +110,6 @@ DefaultContentLanguage = "id"
         topTitle= "Newest"
         title   = "LibreOffice Indonesia Community Blog"
         subtitle= "The latest news about LibreOffice Indonesia Community"
-
-    # Contact Section
-    [Languages.en.params.contact]
-        enable  = true
-        topTitle= "DROP US A NOTE"
-        title   = "Contact Us."
-        subtitle= "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!"
-        address = "14/05, Stockhome <br> Victori Palace , United States"
-        phone   = "(03) 9283 2617"
-        fax     = "+61 3827 3590"
-        facebook= "https://www.facebook.com/"
-        twitter = "https://twitter.com/"
-        linkedin= "https://www.linkedin.com/"
-        dribbble= "https://dribbble.com/"
-        instagram= "https://www.instagram.com/"
-        mapLatitude = "51.507351"
-        mapLongitude= "-0.127758"
-        mapMarker   = "images/marker.png"
-
-    # Call to Action Section on About Page
-    [Languages.en.params.cta]
-        enable  = true
-        bg      = "images/call-to-action/call-to-action-bg-2.jpg"
-        title   = "Let's Create Something Together"
-        subtitle= "Proin gravida nibh vel velit auctor aliquet. Aenean sollicudin bibendum auctor, <br> nisi elit consequat ipsum, nesagittis sem nid elit. Duis sed odio sitain elit."
-        btnText = "Contact Us"
 
 # We Used Themefisher Icon font for Icon, for more details check this github repository - https://github.com/themefisher/themefisher-font
 
