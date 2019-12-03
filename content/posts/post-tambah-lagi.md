@@ -1,5 +1,5 @@
 ---
-title: "Judul Post Pertama, Harus Lebih dari 5 Kata!"
+title: "Tes Judul Kalau Panjang Banger Seperti Ini Gimana Ya?"
 date: 2019-11-26T15:42:54+07:00
 image: images/blog/post-1.png
 ---
