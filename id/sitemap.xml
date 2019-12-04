@@ -3,8 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://libreofficeid.github.io/id/about/</loc>
+    <lastmod>2019-12-05T03:02:42+07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://libreofficeid.github.io/id/</loc>
-    <lastmod>2019-12-04T17:09:35+07:00</lastmod>
+    <lastmod>2019-12-05T03:02:42+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
