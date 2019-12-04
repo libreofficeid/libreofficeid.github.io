@@ -65,14 +65,14 @@ DefaultContentLanguage = "id"
     [Languages.id.params.aboutSm]
         enable  = true
         title   = "Tentang Kami"
-        description = "Komunitas LibreOffice Indonesia adalah komunitas non profit yang mewadahi para pengguna, pegiat, dan kontributor LibreOffice di Indonesia. Kontribusi yang dapat dilakukan antara lain menerjemahkan LibreOffice, membuat ekstensi, atau berkontribusi dalam pengembangan kualitas LibreOffice (QA). Dengan dukungan 582 anggota per 3 Desember 2019, sangat dimungkinkan ada terjadi diskusi hangat, tanya jawab, dan pemecahan permasalahan terkait penggunaan dan kontribusi terhadap LibreOffice. Mari aktif berkontribusi untuk LibreOffice!"
+        description = "Komunitas LibreOffice Indonesia adalah komunitas nonprofit yang mewadahi para pengguna, pegiat, dan kontributor LibreOffice di Indonesia. Kontribusi yang dapat dilakukan antara lain menerjemahkan LibreOffice, membuat ekstensi, atau berkontribusi dalam pengembangan kualitas LibreOffice (QA). Komunitas LibreOffice bermula dari grup komunitas di Facebook dengan anggota yang sudah mencapai angka ribuan. Kini, LibreOffice ID juga menggunakan media komunikasi Telegram untuk akses yang lebih cepat dan realtime guna sekadar berdiskusi hangat, tanya jawab, dan pemecahan permasalahan terkait penggunaan dan kontribusi terhadap LibreOffice. Mari aktif berkontribusi untuk LibreOffice!"
 
     # Blog Section On Homepage
     [Languages.id.params.blog]
         enable  = true
         topTitle= ""
         title   = "Warta Terkini LibreOffice Indonesia."
-        subtitle= "Temukan kabar terbaru seputar Komunitas LibreOffice Indonesia"
+        subtitle= ""
 
     #Feature Section
     [Languages.id.params.feature]
