@@ -58,6 +58,8 @@ DefaultContentLanguage = "id"
         button  = true
         btnText = "Mari Bergabung"
         btnURL  = "https://t.me/LibreOfficeID"
+        videoThumb = "images/slider/video-player-thumb.png"
+        videoURL   = "https://www.youtube.com/watch?v=uAhhugnH9QY"
 
     # About 2 Section
     [Languages.id.params.aboutSm]
@@ -71,6 +73,12 @@ DefaultContentLanguage = "id"
         topTitle= ""
         title   = "Warta Terkini LibreOffice Indonesia."
         subtitle= "Temukan kabar terbaru seputar Komunitas LibreOffice Indonesia"
+
+    #Feature Section
+    [Languages.id.params.feature]
+        enable  = true
+        title   = "Lumbung"
+        description = "memang lumbung"
 
     ############# 2 - Site en ENGLISH
     [Languages.en]
@@ -97,6 +105,8 @@ DefaultContentLanguage = "id"
         button  = true
         btnText = "Join Us"
         btnURL  = "https://t.me/LibreOfficeID"
+        videoThumb = "images/slider/video-player-thumb.png"
+        videoURL   = "https://www.youtube.com/watch?v=uAhhugnH9QY"
 
     # About 2 Section
     [Languages.en.params.aboutSm]
@@ -153,18 +163,11 @@ DefaultContentLanguage = "id"
 
     # Footer Quick links Menu
     [[menu.quicklink]]
-        name    = "partners"
-        url     = "about"
+        name    = ""
+        url     = ""
         weight  = 1
     [[menu.quicklink]]
-        name    = "about"
-        url     = "about"
+        name    = ""
+        url     = ""
         weight  = 2
-    [[menu.quicklink]]
-        name    = "faqs"
-        url     = "about"
-        weight  = 3
-    [[menu.quicklink]]
-        name    = "badges"
-        url     = "about"
-        weight  = 4
+
