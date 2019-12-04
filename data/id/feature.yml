@@ -1,0 +1,37 @@
+enable  : true
+item  :
+  - icon  : tf-ion-android-globe
+    link : https://glosarium.libreoffice.id/
+    title : Glosarium LibreOffice ID
+    description : >
+      Glosarium LibreOffice Indonesia (GLO-ID) merupakan glosarium tak resmi yang didedikasikan untuk para penerjemah LibreOffice Indonesia.
+
+  - icon  : tf-ion-briefcase
+    title : Lumbung LibreOffice ID
+    link : https://lumbung.libreoffice.id/
+    description : >
+      Lumbung LibreOffice Indonesia (Lumbung), merupakan wadah berbagi sumber daya yang berkaitan dengan LibreOffice semisal materi, template & tema.
+
+  - icon  : tf-ion-ios-bookmarks
+    title : Dokumentasi LibreOffice ID
+    link : https://docs.libreoffice.id/
+    description : >
+      Kumpulan dokumentasi (sebagian besar adalah README) dari proyek, layanan, dan panduan ringkas yang digarap oleh Komunitas LibreOffice Indonesia
+
+  - icon  : tf-ion-ios-people
+    title : LibreOffice ID Translathon
+    link : #
+    description : >
+      Kegiatan luring komunitas LibreOffice ID dengan agenda utama adalah menerjemahkan, memeriksa, dan memperbaiki kualitas terjemahan pada LibreOffice.
+      
+  - icon  : tf-ion-chatbubbles
+    title : Kelas Rutin Q&A 
+    link : #
+    description : >
+      Agenda daring rutin (biasanya dilaksanakan pada Selasa malam) berupa pelatihan pengelolaan bug dan Q&A di lingkungan LibreOffice menggunakan Bugzilla.
+      
+  - icon  : tf-ion-social-youtube
+    title : Kanal LibreOffice ID
+    link : https://www.youtube.com/channel/UCBgSzRofowjVhsK-D92TFmg?view_as=subscriber
+    description : >
+      Kanal Youtube Komunitas LibreOffice Indonesia yang memuat dokumentasi kegiatan, tutorial, dan hal-hal menarik lainnya. Jangan lupa dilanggan ya!
