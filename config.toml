@@ -2,7 +2,7 @@ baseURL = "https://libreofficeid.github.io/"
 languageCode = "id-id"
 title = "Komunitas LibreOffice Indonesia"
 theme = "navigator-hugo"
-summaryLength = 15
+summaryLength = 5
 
 # Build robots.txt file
 enableRobotsTXT = true
