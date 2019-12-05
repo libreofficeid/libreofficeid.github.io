@@ -37,7 +37,7 @@ pygmentsCodeFences = true
         button  = true
         btnText = "Mari Bergabung"
         btnURL  = "https://t.me/LibreOfficeID"
-        videoThumb = "images/slider/video-player-thumb.png"
+        videoThumb = "images/slider/video-player-thumb.webp"
         videoURL   = "https://www.youtube.com/watch?v=uAhhugnH9QY"
 
     # About 2 Section
