@@ -1,5 +1,4 @@
 baseURL = "https://libreofficeid.github.io/"
-languageCode = "id-id"
 title = "Komunitas LibreOffice Indonesia"
 theme = "navigator-hugo"
 summaryLength = 5
@@ -12,46 +11,26 @@ googleAnalytics = ""
 enableGitInfo = false
 pygmentsCodeFences = true
 
-# Multilangues setup
-# Renders the default content language in subdir, e.g. /en/. The root directory / will redirect to /en/
-defaultContentLanguageInSubdir = true
-DefaultContentLanguage = "id"
-
 # Site Params
 [params]
     logo = "images/logo.png"
-
-    # Gestion des langues : FR / EN / NL / DE
-    [[Params.listeLangues]]
-    code = "id"
-    [[Params.listeLangues]]
-    code = "en"
-    
-    # meta data
     author = "LibreOffice ID"
     description = "LibreOffice ID merupakan komunitas LibreOffice yang bertujuan untuk mengajak para pegiat LibreOffice di Indonesia untuk turut andil berkontribusi dalam pengembangan LibreOffice."
-
-# Gestion des langues : FR / EN / NL / DE
-[Languages]
-    ############ 1 - Site en FRANCAIS
-    [Languages.id]
     weight = 1
-    languageCode = "id-id"
     title = "Komunitas LibreOffice Indonesia"
     dateFormat = "2 January 2006"
 
-    home = "ID Home"
-    logo = "images/logo.png"
+    home = "Home"
     menufixed = false
 
     footerDescription = "Komunitas LibreOffice Indonesia adalah suatu komunitas pengguna, pegiat, dan kontributor LibreOffice di Indonesia"
     footerServiceTitle = "Layanan"
     footerQuicklinkTitle = "Pranala Luar"
     footerAboutTitle = "Tentang"
-    footerSubscribeTitle = "Berlangganan"
+    footerSocmedTitle = "Mari Bersua"
 
     # Hero Area Section
-    [Languages.id.params.hero]
+    [params.hero]
         enable  = true
         heading = "Komunitas LibreOffice Indonesia"
         description = "Mari aktif berkontribusi untuk LibreOffice"
@@ -62,66 +41,23 @@ DefaultContentLanguage = "id"
         videoURL   = "https://www.youtube.com/watch?v=uAhhugnH9QY"
 
     # About 2 Section
-    [Languages.id.params.aboutSm]
+    [params.aboutSm]
         enable  = true
         title   = "Tentang Kami"
         description = "Komunitas LibreOffice Indonesia adalah komunitas nonprofit yang mewadahi para pengguna, pegiat, dan kontributor LibreOffice di Indonesia. Kontribusi yang dapat dilakukan antara lain menerjemahkan LibreOffice, membuat ekstensi, atau berkontribusi dalam pengembangan kualitas LibreOffice (QA). Komunitas LibreOffice bermula dari grup komunitas di Facebook dengan anggota yang sudah mencapai angka ribuan. Kini, LibreOffice ID juga menggunakan media komunikasi Telegram untuk akses yang lebih cepat dan realtime guna sekadar berdiskusi hangat, tanya jawab, dan pemecahan permasalahan terkait penggunaan dan kontribusi terhadap LibreOffice. Mari aktif berkontribusi untuk LibreOffice!"
 
     # Blog Section On Homepage
-    [Languages.id.params.blog]
+    [params.blog]
         enable  = true
         topTitle= ""
         title   = "Warta Terkini LibreOffice Indonesia."
         subtitle= ""
 
     #Feature Section
-    [Languages.id.params.feature]
+    [params.feature]
         enable  = true
         title   = "Lumbung"
         description = "memang lumbung"
-
-    ############# 2 - Site en ENGLISH
-    [Languages.en]
-    weight = 2
-    languageCode = "en-us"
-    title = "LibreOffice Indonesia Community"
-    dateFormat = "January 2, 2006"
-
-    home = "EN Home"
-    logo = "images/logo.png"
-    menufixed = false
-
-    footerDescription = "LibreOffice Indonesia Community is a community of LibreOffice's users and contributors"
-    footerServiceTitle = "Service"
-    footerQuicklinkTitle = "Quicklinks"
-    footerAboutTitle = "About"
-    footerSubscribeTitle = "Subscribe"
-
-    # Hero Area Section
-    [Languages.en.params.hero]
-        enable  = true
-        heading = "LibreOffice Indonesia Community"
-        description = "Let's Contribute to LibreOffice"
-        button  = true
-        btnText = "Join Us"
-        btnURL  = "https://t.me/LibreOfficeID"
-        videoThumb = "images/slider/video-player-thumb.png"
-        videoURL   = "https://www.youtube.com/watch?v=uAhhugnH9QY"
-
-    # About 2 Section
-    [Languages.en.params.aboutSm]
-        enable  = true
-        title   = "About Us"
-        description = "LibreOffice Indonesia Community is the non-profit community that accomodate users, activist, and contributors of LibreOffice in Indonesia. We are contribute to translation, extentions development, or being quality assurance of LibreOffice. Supported by 582 members, it possible to have a discussion, question and answer, and LibreOffice usage and contribution problem solving. Let's contribute for LibreOffice!"
-
-    # Blog Section On Homepage
-    [Languages.en.params.blog]
-        enable  = true
-        topTitle= "Newest"
-        title   = "LibreOffice Indonesia Community Blog"
-        subtitle= "The latest news about LibreOffice Indonesia Community"
-
-# We Used Themefisher Icon font for Icon, for more details check this github repository - https://github.com/themefisher/themefisher-font
 
 # Site Menus
 [menu]
@@ -149,16 +85,16 @@ DefaultContentLanguage = "id"
 
     # Footer Service Menu
     [[menu.service]]
-        name    = "Lumbung"
-        url     = "https://lumbung.libreOffice.id"
+        name    = ""
+        url     = ""
         weight  = 1
     [[menu.service]]
-        name    = "Glosarium"
-        url     = "https://glosarium.libreOffice.id"
+        name    = ""
+        url     = ""
         weight  = 2
     [[menu.service]]
-        name    = "Dokumentasi"
-        url     = "https://github.com/libreofficeid"
+        name    = ""
+        url     = ""
         weight  = 3
 
     # Footer Quick links Menu
