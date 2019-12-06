@@ -5,10 +5,19 @@
     <link>https://libreofficeid.github.io/</link>
     <description>Recent content on Komunitas LibreOffice Indonesia</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 05 Dec 2019 03:02:42 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 06 Dec 2019 22:46:31 +0700</lastBuildDate>
     
 	<atom:link href="https://libreofficeid.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Kelas Jaminan Kualitas (QA) LibreOffice ID</title>
+      <link>https://libreofficeid.github.io/posts/qna/</link>
+      <pubDate>Fri, 06 Dec 2019 22:46:31 +0700</pubDate>
+      
+      <guid>https://libreofficeid.github.io/posts/qna/</guid>
+      <description>Apa itu QA? QA adalah singkatan dari Quality Assurance atau Jaminan Kualitas.</description>
+    </item>
     
     <item>
       <title>About</title>
