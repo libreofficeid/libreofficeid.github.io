@@ -14,23 +14,23 @@ Tujuan utama dari QA sendiri adalah untuk menemukan atau mengonfirmasi bug yang 
 
 ### Panduan Ringkas untuk Pemula
 
-Panduan ini dibuat seringkas mungkin agar para pemula tidak "kaget dan shock" sebelum mencoba. Berikut merupakan beberapa tahapan yang dapat dilakukan untuk memulai debut sebagai QA.
+Panduan ini dibuat seringkas mungkin agar para pemula tidak "kaget dan shock" sebelum mencoba. Berikut merupakan beberapa tahapan yang dapat dilakukan untuk memulai debut sebagai QA. 
 
-- 1) [Unduh dan pasang](https://www.libreoffice.org/download/download/) LibreOffice stable terbaru (dari baris "Fresh")
+-  [Unduh dan pasang](https://www.libreoffice.org/download/download/) LibreOffice stable terbaru (dari baris "Fresh")
 
-- 2) [Unduh dan pasang](https://wiki.documentfoundation.org/QA/Testing_Daily_Builds) master build terbaru dari LibreOffice
+-  [Unduh dan pasang](https://wiki.documentfoundation.org/QA/Testing_Daily_Builds) master build terbaru dari LibreOffice
 
-- 3) [Buat akun di TDF](https://bugs.documentfoundation.org/createaccount.cgi) Bugzilla
+-  [Buat akun di TDF](https://bugs.documentfoundation.org/createaccount.cgi) Bugzilla
 
-- 4) [Buka daftar antrean bug](https://bugs.documentfoundation.org/buglist.cgi?bug_status=UNCONFIRMED&chfield=%5BBug%20creation%5D&chfieldfrom=-1M&chfieldto=Now&f1=bug_severity&f2=keywords&f3=component&list_id=1036324&n1=1&n2=1&n3=1&o1=substring&o2=anywords&o3=anywordssubstr&order=bug_id&product=Document%20Liberation%20Project&product=LibreOffice&query_format=advanced&resolution=---&v1=enhancement&v2=needsUXEval%2C%20needsDevAdvice&v3=Android%20iOS) bulan lalu yang belum dikonfirmasi (permintaan peningkatan sengaja diabaikan, beberapa hal lain juga difilter)
+-  [Buka daftar antrean bug](https://bugs.documentfoundation.org/buglist.cgi?bug_status=UNCONFIRMED&chfield=%5BBug%20creation%5D&chfieldfrom=-1M&chfieldto=Now&f1=bug_severity&f2=keywords&f3=component&list_id=1036324&n1=1&n2=1&n3=1&o1=substring&o2=anywords&o3=anywordssubstr&order=bug_id&product=Document%20Liberation%20Project&product=LibreOffice&query_format=advanced&resolution=---&v1=enhancement&v2=needsUXEval%2C%20needsDevAdvice&v3=Android%20iOS) bulan lalu yang belum dikonfirmasi (permintaan peningkatan sengaja diabaikan, beberapa hal lain juga difilter)
 
-- 5) Pilih bug yang menarik
+-  Pilih bug yang menarik
 
-- 6) [Cari duplikat](https://wiki.documentfoundation.org/QA/BugTriage#Step_3:_Search_for_Duplicates)
+-  [Cari duplikat](https://wiki.documentfoundation.org/QA/BugTriage#Step_3:_Search_for_Duplicates)
 
-- 7) Jika bug tersebut bukan duplikat, tetapi memiliki deskripsi yang membingungkan atau tidak memiliki sesuatu yang penting, [atur status ke NEEDINFO](https://wiki.documentfoundation.org/QA/GetInvolved#Try_to_reproduce_the_bug)
+-  Jika bug tersebut bukan duplikat, tetapi memiliki deskripsi yang membingungkan atau tidak memiliki sesuatu yang penting, [atur status ke NEEDINFO](https://wiki.documentfoundation.org/QA/GetInvolved#Try_to_reproduce_the_bug)
 
-- 8) Setelah mencoba mereproduksinya dengan stabil dan master build Anda, atur status ke [NEW atau biarkan UNCONFIRMED](https://wiki.documentfoundation.org/QA/GetInvolved#Try_to_reproduce_the_bug)
+-  Setelah mencoba mereproduksinya dengan stabil dan master build Anda, atur status ke [NEW atau biarkan UNCONFIRMED](https://wiki.documentfoundation.org/QA/GetInvolved#Try_to_reproduce_the_bug)
 
 Apa yang tercantum di atas memang seolah sangat panjang, tapi percayalah semakin sering dilakukan dan menjadi rutinitas, maka hal-hal yang disebutkan di atas akan terasa sangat mudah.
 
