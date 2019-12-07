@@ -5,19 +5,10 @@
     <link>https://libreofficeid.github.io/</link>
     <description>Recent content on Komunitas LibreOffice Indonesia</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 07 Dec 2019 06:08:34 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 06 Dec 2019 22:46:31 +0700</lastBuildDate>
     
 	<atom:link href="https://libreofficeid.github.io/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>My New Blog Post</title>
-      <link>https://libreofficeid.github.io/posts/my-new-blog-post/</link>
-      <pubDate>Sat, 07 Dec 2019 06:08:34 +0700</pubDate>
-      
-      <guid>https://libreofficeid.github.io/posts/my-new-blog-post/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Kelas Jaminan Kualitas (QA) LibreOffice ID</title>
@@ -26,6 +17,114 @@
       
       <guid>https://libreofficeid.github.io/posts/qna/</guid>
       <description>Apa itu QA? QA adalah singkatan dari Quality Assurance atau Jaminan Kualitas.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://libreofficeid.github.io/about/</link>
+      <pubDate>Thu, 05 Dec 2019 03:02:42 +0700</pubDate>
+      
+      <guid>https://libreofficeid.github.io/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LOTC Theme</title>
+      <link>https://libreofficeid.github.io/posts/lotc-theme/</link>
+      <pubDate>Wed, 04 Dec 2019 17:09:35 +0700</pubDate>
+      
+      <guid>https://libreofficeid.github.io/posts/lotc-theme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Judul Post Pertama, Harus Lebih dari 5 Kata!</title>
+      <link>https://libreofficeid.github.io/posts/post-pertama-1-z/</link>
+      <pubDate>Tue, 26 Nov 2019 15:42:54 +0700</pubDate>
+      
+      <guid>https://libreofficeid.github.io/posts/post-pertama-1-z/</guid>
+      <description>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</description>
+    </item>
+    
+    <item>
+      <title>Judul Post Pertama, Harus Lebih dari 5 Kata!</title>
+      <link>https://libreofficeid.github.io/posts/post-pertama-1/</link>
+      <pubDate>Tue, 26 Nov 2019 15:42:54 +0700</pubDate>
+      
+      <guid>https://libreofficeid.github.io/posts/post-pertama-1/</guid>
+      <description>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</description>
+    </item>
+    
+    <item>
+      <title>Judul Post Pertama, Harus Lebih dari 5 Kata!</title>
+      <link>https://libreofficeid.github.io/posts/post-pertama-d/</link>
+      <pubDate>Tue, 26 Nov 2019 15:42:54 +0700</pubDate>
+      
+      <guid>https://libreofficeid.github.io/posts/post-pertama-d/</guid>
+      <description>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</description>
+    </item>
+    
+    <item>
+      <title>Judul Post Pertama, Harus Lebih dari 5 Kata!</title>
+      <link>https://libreofficeid.github.io/posts/post-pertama/</link>
+      <pubDate>Tue, 26 Nov 2019 15:42:54 +0700</pubDate>
+      
+      <guid>https://libreofficeid.github.io/posts/post-pertama/</guid>
+      <description>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</description>
+    </item>
+    
+    <item>
+      <title>Post Kedua dengan Gambar di Badan Konten</title>
+      <link>https://libreofficeid.github.io/posts/post-kedua-2-z/</link>
+      <pubDate>Tue, 26 Nov 2019 15:42:54 +0700</pubDate>
+      
+      <guid>https://libreofficeid.github.io/posts/post-kedua-2-z/</guid>
+      <description>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</description>
+    </item>
+    
+    <item>
+      <title>Post Kedua dengan Gambar di Badan Konten</title>
+      <link>https://libreofficeid.github.io/posts/post-kedua-2/</link>
+      <pubDate>Tue, 26 Nov 2019 15:42:54 +0700</pubDate>
+      
+      <guid>https://libreofficeid.github.io/posts/post-kedua-2/</guid>
+      <description>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</description>
+    </item>
+    
+    <item>
+      <title>Post Kedua dengan Gambar di Badan Konten</title>
+      <link>https://libreofficeid.github.io/posts/post-kedua-z/</link>
+      <pubDate>Tue, 26 Nov 2019 15:42:54 +0700</pubDate>
+      
+      <guid>https://libreofficeid.github.io/posts/post-kedua-z/</guid>
+      <description>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</description>
+    </item>
+    
+    <item>
+      <title>Post Kedua dengan Gambar di Badan Konten</title>
+      <link>https://libreofficeid.github.io/posts/post-kedua/</link>
+      <pubDate>Tue, 26 Nov 2019 15:42:54 +0700</pubDate>
+      
+      <guid>https://libreofficeid.github.io/posts/post-kedua/</guid>
+      <description>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</description>
+    </item>
+    
+    <item>
+      <title>Tes Judul Kalau Panjang Banger Seperti Ini Gimana Ya?</title>
+      <link>https://libreofficeid.github.io/posts/post-tambah-lagi-1/</link>
+      <pubDate>Tue, 26 Nov 2019 15:42:54 +0700</pubDate>
+      
+      <guid>https://libreofficeid.github.io/posts/post-tambah-lagi-1/</guid>
+      <description>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</description>
+    </item>
+    
+    <item>
+      <title>Tes Judul Kalau Panjang Banger Seperti Ini Gimana Ya?</title>
+      <link>https://libreofficeid.github.io/posts/post-tambah-lagi/</link>
+      <pubDate>Tue, 26 Nov 2019 15:42:54 +0700</pubDate>
+      
+      <guid>https://libreofficeid.github.io/posts/post-tambah-lagi/</guid>
+      <description>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</description>
     </item>
     
   </channel>
