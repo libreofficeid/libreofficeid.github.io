@@ -1,7 +1,7 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
-image: images/generic-thumb.png
+image: assets/generic-thumb.png
 author: LibreOffice ID
 description: 
 ---
