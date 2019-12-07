@@ -1,8 +1,8 @@
 ---
 title: "About"
 date: 2019-12-05T03:02:42+07:00
-image: images/generic-thumb.png
+image: assets/generic-thumb.png
 author: LibreOffice ID
-description: 
+description: ""
 ---
-
+This is about page
