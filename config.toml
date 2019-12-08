@@ -20,7 +20,7 @@ pygmentsCodeFences = true
     title = "Komunitas LibreOffice Indonesia"
     dateFormat = "2 January 2006"
 
-    home = "Home"
+    home = "Beranda"
     menufixed = false
 
     footerDescription = "LibreOffice ID adalah komunitas pengguna dan kontributor LibreOffice di Indonesia"
@@ -59,6 +59,11 @@ pygmentsCodeFences = true
         title   = "Lumbung"
         description = "memang lumbung"
 
+[taxonomies]
+  category = "Kategori"
+  tag = "tags"
+
+
 # Site Menus
 [menu]
     # Navbar Menus
@@ -71,8 +76,8 @@ pygmentsCodeFences = true
         url     = "service"
         weight  = 3
     [[menu.nav]]
-        name    = "portfolio"
-        url     = "portfolio"
+        name    = "categories"
+        url     = "categories"
         weight  = 4
     [[menu.nav]]
         name    = "blog"
