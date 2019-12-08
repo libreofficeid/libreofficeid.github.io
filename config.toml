@@ -23,7 +23,7 @@ pygmentsCodeFences = true
     home = "Home"
     menufixed = false
 
-    footerDescription = "Komunitas LibreOffice Indonesia adalah suatu komunitas pengguna, pegiat, dan kontributor LibreOffice di Indonesia"
+    footerDescription = "LibreOffice ID adalah komunitas pengguna dan kontributor LibreOffice di Indonesia"
     footerServiceTitle = "Layanan"
     footerQuicklinkTitle = "Pranala Luar"
     footerAboutTitle = "Tentang"
