@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kategori on Komunitas LibreOffice Indonesia</title>
+    <link>https://libreofficeid.github.io/kategori/</link>
+    <description>Recent content in Kategori on Komunitas LibreOffice Indonesia</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 06 Dec 2019 22:46:31 +0700</lastBuildDate>
+    
+	<atom:link href="https://libreofficeid.github.io/kategori/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>kegiatan</title>
+      <link>https://libreofficeid.github.io/kategori/kegiatan/</link>
+      <pubDate>Fri, 06 Dec 2019 22:46:31 +0700</pubDate>
+      
+      <guid>https://libreofficeid.github.io/kategori/kegiatan/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
