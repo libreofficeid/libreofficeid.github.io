@@ -1,5 +1,5 @@
 ---
-title: "Penerjemahan LibreOffice di Malang"
+title: "LibreOffice Indonesia Menyapa Malang"
 date: 2019-01-05T22:07:31+07:00
 image: assets/thumb.png
 author: LibreOffice ID
@@ -7,9 +7,6 @@ kategori: [kegiatan]
 tags: [kontribusi, penerjemahan]
 description: Sebuah acara penerjemahan LibreOffice yang diadakan oleh Komunitas GNU/Linux Malang (KLiM)
 ---
-
-### LibreOffice Indonesia menyapa Malang
-
 Tahun baru, semangat baru! Memasuki tahun baru 2019, komunitas penggerak perangkat lunak bebas berbondong-bondong menyemarakkan pergantian tahun dengan acara mini festival Penerjemahan LibreOffice di berbagai daerah. Tidak tanggung-tanggung, acara tersebut diadakan setiap akhir pekan di bulan Januari.
 
 ![Penerjemahan di Malang](assets/gambar1.webp)

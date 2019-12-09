@@ -1,5 +1,5 @@
 ---
-title: "Penerjemahan LibreOffice Surabaya"
+title: "Semangat Penerjemahan di Kota Pahlawan"
 date: 2019-01-13T22:07:31+07:00
 image: assets/thumb.svg
 author: LibreOffice ID
@@ -7,9 +7,6 @@ kategori: [kegiatan]
 tags: [kontribusi, penerjemahan]
 description: Kegiatan penerjemahan di kota Pahlawan
 ---
-
-### Semangat Penerjemahan di Kota Pahlawan
-
 Seakan tidak mau kalah dengan KLiM, Kelompok Linux Arek Suroboyo (KLAS) menggelar penerjemahan di kota Surabaya. Acara tersebut diadakan diadakan pada tanggal 12 hingga 13 Januari 2019.
 
 ![Penerjemahan di Surabaya](assets/gambar1.webp)
