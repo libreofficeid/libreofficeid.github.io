@@ -1,32 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>kontribusi on Komunitas LibreOffice Indonesia</title>
-    <link>https://libreofficeid.github.io/tags/kontribusi/</link>
-    <description>Recent content in kontribusi on Komunitas LibreOffice Indonesia</description>
+    <title>penerjemahan on Komunitas LibreOffice Indonesia</title>
+    <link>https://libreofficeid.github.io/tags/penerjemahan/</link>
+    <description>Recent content in penerjemahan on Komunitas LibreOffice Indonesia</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 06 Dec 2019 22:46:31 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 27 Jan 2019 22:07:31 +0700</lastBuildDate>
     
-	<atom:link href="https://libreofficeid.github.io/tags/kontribusi/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://libreofficeid.github.io/tags/penerjemahan/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Kelas Jaminan Kualitas (QA) LibreOffice ID</title>
-      <link>https://libreofficeid.github.io/posts/qna/</link>
-      <pubDate>Fri, 06 Dec 2019 22:46:31 +0700</pubDate>
-      
-      <guid>https://libreofficeid.github.io/posts/qna/</guid>
-      <description>Apa itu QA? QA adalah singkatan dari Quality Assurance atau Jaminan Kualitas.</description>
-    </item>
-    
-    <item>
-      <title>LOTC Theme</title>
-      <link>https://libreofficeid.github.io/posts/lotc-theme/</link>
-      <pubDate>Wed, 04 Dec 2019 17:09:35 +0700</pubDate>
-      
-      <guid>https://libreofficeid.github.io/posts/lotc-theme/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Penerjemahan LibreOffice Surakarta</title>
@@ -71,15 +53,6 @@
       
       <guid>https://libreofficeid.github.io/posts/penerjemahan-gresik/</guid>
       <description>Semangat yang Muncul Pasca LOCI 2018 Penerjemahan LibreOffice Gresik merupakan lanjutan dari Lokakarya Penerjemahan LibreOffice yang sudah dilaksanakan di Politeknik Elektronika Negeri Surabaya (PENS) untuk mengajak masyarakat, khususnya pengguna LibreOffice untuk turut berkontribusi melalui pengalihan bahasa.</description>
-    </item>
-    
-    <item>
-      <title>Konferensi LibreOffice Indonesia 2018</title>
-      <link>https://libreofficeid.github.io/posts/loci2018/</link>
-      <pubDate>Sun, 25 Mar 2018 22:07:31 +0700</pubDate>
-      
-      <guid>https://libreofficeid.github.io/posts/loci2018/</guid>
-      <description>Cikal Bakal Komunitas LibreOffice Indonesia Konferensi LibreOffice Indonesia merupakan sebuah acara yang mengumpulkan pengguna, kontributor, dan pengembang LibreOffice yang ada di Indonesia.</description>
     </item>
     
   </channel>
