@@ -15,9 +15,9 @@ pygmentsCodeFences = true
 [params]
     logo = "images/logo.png"
     author = "LibreOffice ID"
-    description = "LibreOffice ID merupakan komunitas LibreOffice yang bertujuan untuk mengajak para pegiat LibreOffice di Indonesia untuk turut andil berkontribusi dalam pengembangan LibreOffice."
+    description = "Komunitas LibreOffice Indonesia adalah komunitas nonprofit yang mewadahi para pengguna, pegiat, dan kontributor LibreOffice di Indonesia."
     weight = 1
-    title = "Komunitas LibreOffice Indonesia"
+    title = "Komunitas LibreOffice ID"
     dateFormat = "2 January 2006"
 
     home = "Beranda"
