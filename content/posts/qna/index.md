@@ -3,7 +3,8 @@ title: "Kelas Jaminan Kualitas (QA) LibreOffice ID"
 date: 2019-12-06T22:46:31+07:00
 image: assets/thumb.svg
 author: LibreOffice ID
-kategori: kegiatan
+kategori: [kegiatan]
+tags: [kontribusi, kualitas]
 description: Panduan Ringkas untuk Menjadi Bagian dari Tim QA LibreOffice
 ---
 
