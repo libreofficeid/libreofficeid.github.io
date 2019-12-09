@@ -1,7 +1,7 @@
 ---
 title: "Kelas Jaminan Kualitas (QA) LibreOffice ID"
 date: 2019-12-06T22:46:31+07:00
-image: assets/thumb.svg
+image: assets/thumb.png
 author: LibreOffice ID
 kategori: [kegiatan]
 tags: [kontribusi, kualitas]
