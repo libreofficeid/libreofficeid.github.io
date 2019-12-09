@@ -5,9 +5,28 @@
     <link>https://libreofficeid.github.io/tags/</link>
     <description>Recent content in Tags on Komunitas LibreOffice Indonesia</description>
     <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 06 Dec 2019 22:46:31 +0700</lastBuildDate>
     
 	<atom:link href="https://libreofficeid.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>kontribusi</title>
+      <link>https://libreofficeid.github.io/tags/kontribusi/</link>
+      <pubDate>Fri, 06 Dec 2019 22:46:31 +0700</pubDate>
+      
+      <guid>https://libreofficeid.github.io/tags/kontribusi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>kualitas</title>
+      <link>https://libreofficeid.github.io/tags/kualitas/</link>
+      <pubDate>Fri, 06 Dec 2019 22:46:31 +0700</pubDate>
+      
+      <guid>https://libreofficeid.github.io/tags/kualitas/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
