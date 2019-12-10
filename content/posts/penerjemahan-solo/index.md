@@ -1,7 +1,7 @@
 ---
 title: "Penerjemahan LibreOffice Lanjut di Solo"
 date: 2019-01-27T22:07:31+07:00
-image: assets/thumb.svg
+image: assets/thumb.png
 author: LibreOffice ID
 kategori: [kegiatan]
 tags: [kontribusi, penerjemahan]

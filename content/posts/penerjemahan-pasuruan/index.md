@@ -1,7 +1,7 @@
 ---
 title: "Pasuruan: Destinasi Penerjemahan Ketiga"
 date: 2019-01-19T22:07:31+07:00
-image: assets/thumb.jpeg
+image: assets/thumb.png
 author: LibreOffice ID
 kategori: [kegiatan]
 tags: [kontribusi, penerjemahan]
