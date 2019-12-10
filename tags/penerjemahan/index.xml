@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>penerjemahan on Komunitas LibreOffice Indonesia</title>
+    <title>Penerjemahan on Komunitas LibreOffice Indonesia</title>
     <link>https://libreofficeid.github.io/tags/penerjemahan/</link>
-    <description>Recent content in penerjemahan on Komunitas LibreOffice Indonesia</description>
+    <description>Recent content in Penerjemahan on Komunitas LibreOffice Indonesia</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Sun, 27 Jan 2019 22:07:31 +0700</lastBuildDate>
     
@@ -44,6 +44,15 @@
       
       <guid>https://libreofficeid.github.io/posts/penerjemahan-malang/</guid>
       <description>Tahun baru, semangat baru! Memasuki tahun baru 2019, komunitas penggerak perangkat lunak bebas berbondong-bondong menyemarakkan pergantian tahun dengan acara mini festival Penerjemahan LibreOffice di berbagai daerah.</description>
+    </item>
+    
+    <item>
+      <title>Penerjemahan LibreOffice Yogyakarta</title>
+      <link>https://libreofficeid.github.io/posts/penerjemahan-libreoffice-yogyakarta/</link>
+      <pubDate>Sun, 02 Dec 2018 04:23:35 +0700</pubDate>
+      
+      <guid>https://libreofficeid.github.io/posts/penerjemahan-libreoffice-yogyakarta/</guid>
+      <description>Tak lama berselang setelah penerjemahan di Gresik, para pegian LibreOffice di Yogyakarta pun mulai merapatkan barisan untuk mengadakan kegiatan serupa.</description>
     </item>
     
     <item>
