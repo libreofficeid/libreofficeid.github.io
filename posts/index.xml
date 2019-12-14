@@ -5,10 +5,19 @@
     <link>https://libreoffice.id/posts/</link>
     <description>Recent content in Posts on Komunitas LibreOffice Indonesia</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 06 Dec 2019 22:46:31 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 13 Dec 2019 12:52:31 +0700</lastBuildDate>
     
 	<atom:link href="https://libreoffice.id/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Kelompok Linux Jember Gelar Lokakarya bertema LibreOffice</title>
+      <link>https://libreoffice.id/posts/kopdar-libreoffice-klj/</link>
+      <pubDate>Fri, 13 Dec 2019 12:52:31 +0700</pubDate>
+      
+      <guid>https://libreoffice.id/posts/kopdar-libreoffice-klj/</guid>
+      <description>LibreOffice merupakan aplikasi perkantoran bersumber terbuka. Perangkat lunak ini digadang-gadang menjadi pesaing terberat Microsoft Office yang berlisensi berbayar.</description>
+    </item>
     
     <item>
       <title>Kelas Jaminan Kualitas (QA) LibreOffice ID</title>
