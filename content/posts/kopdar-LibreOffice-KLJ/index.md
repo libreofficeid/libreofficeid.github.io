@@ -13,9 +13,12 @@ LibreOffice merupakan aplikasi perkantoran bersumber terbuka. Perangkat lunak in
 Berbagai kenyamanan tersebut hendak dibagikan oleh Komunitas Linux Jember. Dengan semangat #LinuxItuMudah, komunitas yang baru lahir di bulan Oktober akhir ini mengadakan lokakarya LibreOffic yang bertajuk "LibreOffice: Seru dan Mengasyikkan" dengan pemateri [Pak Tasliman](https://www.instagram.com/paktasliman/) seorang dosen senior Fakultas Teknologi Pertanian Universitas Jember.
 
 Acara kopdar bersifat terbuka dengan detail sebagai berikut :
-- Hari/Tanggal  :   Sabtu, 14 Desember 2019
-- Pukul         :   09.00 WIB
-- Tempat        :   [SMKN 2 Jember](https://goo.gl/maps/Fo3YaJcoxJkbdYss5)
+
+-   Hari/Tanggal  :   Sabtu, 14 Desember 2019
+
+-   Pukul         :   09.00 WIB
+
+-   Tempat        :   [SMKN 2 Jember](https://goo.gl/maps/Fo3YaJcoxJkbdYss5)
 
 Jika Anda berminat untuk bergabung dan mengalami keseruan kopdar KLJ ini, silakan Anda mendaftar terlebih dahulu [di sini](https://s.id/kopdar3-klj)
 
