@@ -2,7 +2,7 @@
 title: "Antusiasme Peserta Kopdar KLJ Ketiga"
 date: 2019-12-15T17:58:31+07:00
 image: assets/thumb.png
-author: Kelompok Linux Jember
+author: Arivle
 kategori: [kegiatan]
 tags: [lokakarya, kopdar]
 description: "Dibuang sayang acara kopdar 3 KLJ LibreOffice Seru dan Mengasyikkan"
