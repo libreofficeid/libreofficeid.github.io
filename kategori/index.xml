@@ -5,15 +5,24 @@
     <link>https://libreoffice.id/kategori/</link>
     <description>Recent content in Kategori on Komunitas LibreOffice Indonesia</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 19 Jan 2020 12:52:31 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2020 12:45:31 +0700</lastBuildDate>
     
 	<atom:link href="https://libreoffice.id/kategori/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>donasi</title>
+      <link>https://libreoffice.id/kategori/donasi/</link>
+      <pubDate>Thu, 06 Aug 2020 12:45:31 +0700</pubDate>
+      
+      <guid>https://libreoffice.id/kategori/donasi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>kegiatan</title>
       <link>https://libreoffice.id/kategori/kegiatan/</link>
-      <pubDate>Sun, 19 Jan 2020 12:52:31 +0700</pubDate>
+      <pubDate>Thu, 06 Aug 2020 12:45:31 +0700</pubDate>
       
       <guid>https://libreoffice.id/kategori/kegiatan/</guid>
       <description></description>

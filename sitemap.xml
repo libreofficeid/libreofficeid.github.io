@@ -3,13 +3,48 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://libreoffice.id/kategori/donasi/</loc>
+    <lastmod>2020-08-06T12:45:31+07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://libreoffice.id/kategori/</loc>
-    <lastmod>2020-01-19T12:52:31+07:00</lastmod>
+    <lastmod>2020-08-06T12:45:31+07:00</lastmod>
   </url>
   
   <url>
     <loc>https://libreoffice.id/kategori/kegiatan/</loc>
-    <lastmod>2020-01-19T12:52:31+07:00</lastmod>
+    <lastmod>2020-08-06T12:45:31+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://libreoffice.id/tags/kegitan/</loc>
+    <lastmod>2020-08-06T12:45:31+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://libreoffice.id/</loc>
+    <lastmod>2020-08-06T12:45:31+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://libreoffice.id/tags/kontribusi/</loc>
+    <lastmod>2020-08-06T12:45:31+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://libreoffice.id/posts/donasi-libreoffice/</loc>
+    <lastmod>2020-08-06T12:45:31+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://libreoffice.id/posts/</loc>
+    <lastmod>2020-08-06T12:45:31+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://libreoffice.id/tags/</loc>
+    <lastmod>2020-08-06T12:45:31+07:00</lastmod>
   </url>
   
   <url>
@@ -23,27 +58,7 @@
   </url>
   
   <url>
-    <loc>https://libreoffice.id/</loc>
-    <lastmod>2020-01-19T12:52:31+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://libreoffice.id/tags/kontribusi/</loc>
-    <lastmod>2020-01-19T12:52:31+07:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://libreoffice.id/posts/memberi-warna-baru-libreoffice/</loc>
-    <lastmod>2020-01-19T12:52:31+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://libreoffice.id/posts/</loc>
-    <lastmod>2020-01-19T12:52:31+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://libreoffice.id/tags/</loc>
     <lastmod>2020-01-19T12:52:31+07:00</lastmod>
   </url>
   

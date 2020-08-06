@@ -5,10 +5,28 @@
     <link>https://libreoffice.id/tags/</link>
     <description>Recent content in Tags on Komunitas LibreOffice Indonesia</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 19 Jan 2020 12:52:31 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2020 12:45:31 +0700</lastBuildDate>
     
 	<atom:link href="https://libreoffice.id/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>kegitan</title>
+      <link>https://libreoffice.id/tags/kegitan/</link>
+      <pubDate>Thu, 06 Aug 2020 12:45:31 +0700</pubDate>
+      
+      <guid>https://libreoffice.id/tags/kegitan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>kontribusi</title>
+      <link>https://libreoffice.id/tags/kontribusi/</link>
+      <pubDate>Thu, 06 Aug 2020 12:45:31 +0700</pubDate>
+      
+      <guid>https://libreoffice.id/tags/kontribusi/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>kegitab</title>
@@ -16,15 +34,6 @@
       <pubDate>Sun, 19 Jan 2020 12:52:31 +0700</pubDate>
       
       <guid>https://libreoffice.id/tags/kegitab/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>kontribusi</title>
-      <link>https://libreoffice.id/tags/kontribusi/</link>
-      <pubDate>Sun, 19 Jan 2020 12:52:31 +0700</pubDate>
-      
-      <guid>https://libreoffice.id/tags/kontribusi/</guid>
       <description></description>
     </item>
     
