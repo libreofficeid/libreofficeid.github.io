@@ -1,7 +1,7 @@
 ---
-title: "LibreOffice Conference Akan Hadir Kembali di Indonesia!"
+title: "LibreOffice Asia Conference 2025 Akan Digelar di Tokyo – Kirim Proposalmu Sekarang!"
 date: 2025-08-07T11:48:04+07:00
-image: assets/thumb.svg
+image: assets/thumb.png
 author: LibreOffice ID
 kategori: [kegiatan]
 tags: 
