@@ -7,20 +7,14 @@ kategori: [kegiatan]
 tags: 
     - conference
     - LibreOffice Asia 
-description: 
+description: "LibreOffice Asia Confrerence 2025 Akan digelar di Jepang"
 ---
 
 Komite LibreOffice Asia Conference dengan senang hati mengundang Anda untuk mengirimkan proposal presentasi dalam rangka konferensi LibreOffice Asia 2025 yang akan digelar di Tokyo! Ini adalah konferensi tahunan yang digelar oleh Komunitas LibreOffice di kawasan Asia yang telah dimulai sejak 2018.
 
-
-
 LibreOffice Asia Confrerence 2025 ini akan mempertemukan para pengguna dan kontributor LibreOffice dari seluruh Asia — termasuk pengembang, penerjemah, penguji QA, penggerak komunitas, hingga praktisi pemasaran — untuk saling berbagi pengetahuan, alat, pengalaman, dan tantangan. Kegiatan ini akan dihadiri oleh komunitas-komunitas LibreOffice linstas negara (terutama di wilayah Asia), termasuk tim dari The Document Foundation, untuk mendorong kolaborasi lintas negara.
 
-
-
 Konferensi akan berlangsung selama dua hari dalam format satu jalur (single-track), dengan mayoritas sesi berbahasa Inggris. Namun, presentasi dalam bahasa Jepang juga dipersilakan. Jika Anda berencana menyampaikan presentasi dalam bahasa Jepang, harap siapkan slide dalam bahasa Inggris agar peserta non-Jepang tetap dapat mengikuti. Kami juga berencana mengadakan sesi tambahan atau workshop terpisah.
-
-
 
 **📅 Tanggal:** 13–14 Desember 2025 (Sabtu–Minggu)
 
@@ -32,7 +26,7 @@ Konferensi akan berlangsung selama dua hari dalam format satu jalur (single-trac
 
 🔗 Info lengkap dan terbaru mengenai jadwal acara dapat dilihat di:
 
-wiki.documentfoundation.org/Events/2025/LibreOffice\_Asia\_Conference
+http://wiki.documentfoundation.org/Events/2025/LibreOffice_Asia_Conference
 
 ### 
 
@@ -93,3 +87,6 @@ Sertakan informasi berikut:
 
 
 Sampai jumpa di Tokyo!
+
+
+> Postingan resmi: https://blog.documentfoundation.org/blog/2025/08/01/libreoffice-asia-conference-2025-tokyo-call-for-proposals-is-open/
